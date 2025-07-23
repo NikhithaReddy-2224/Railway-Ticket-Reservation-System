@@ -1,4 +1,4 @@
- Railway-Reservation-Management-System 
+ Railway-Ticket-Reservation-System 
 --------------------------------------------------------------------------------------
 The Railway Reservation Management System is a user-friendly application that allows users to search for trains between any two stations based on the day of travel. This system helps users:
 
